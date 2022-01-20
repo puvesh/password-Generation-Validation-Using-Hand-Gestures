@@ -1,4 +1,4 @@
-# passcode-generation-usinng-hand-gestures
+# passcode-generation-using-hand-gestures-python
 
 
 import numpy as np
